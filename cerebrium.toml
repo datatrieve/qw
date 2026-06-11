@@ -8,7 +8,7 @@ exclude = ['.*']
 
 [cerebrium.hardware]
 cpu = 4
-memory = 16.0
+memory = 24.0
 compute = "ADA_L4"
 gpu_count = 1
 
