@@ -1,6 +1,6 @@
 from vllm import LLM, SamplingParams
 
-MODEL_NAME = "HauhauCS/Qwen3.5-9B-Uncensored-HauhauCS-Aggressive"
+MODEL_NAME = "Qwen/Qwen3.5-9B"
 
 llm = LLM(
     model=MODEL_NAME,
